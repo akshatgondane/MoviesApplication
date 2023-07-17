@@ -1,7 +1,7 @@
 # MoviesApplication
 
 ## Description:
-This android application shows the latest movies along with their description, categories and image. This application is based on Kotlin (Android Native) and uses many modern libraries like Retorfit, Jetpack Compose, etc.
+This android application shows the latest movies along with their description, categories and image. This application is based on Kotlin (Android Native) and uses many modern libraries like Retrofit, Jetpack Compose, etc.
 
 ## Features:
 - Clean and Simple UI.
