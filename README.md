@@ -8,4 +8,5 @@ This android application shows the latest movies along with their description, c
 - Used Retrofit Library for API request.
 - Used Jetpack Compose for UI.
 - Code follows MVVM (Model View ViewModel) Architecture Pattern in Android.
+- Used Coroutines to make code run asynchronously and smoothly.
   
